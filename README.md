@@ -1,2 +1,2 @@
-# Front-End
-Front end development practice for me to do. 
+# Web Development
+ A practice repo for me to create projects from the course. 
