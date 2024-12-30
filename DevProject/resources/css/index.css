@@ -1,8 +1,20 @@
-@font-family
-{
-    font-family: custom;
-    src: url(milky_vintage-webfont.woff);
+@font-face{
+    font-family:'milky';
+    src: url('milky_vintage-webfont.woff') format('woff');
 }
-* {
-    font-family: custom; 
+* { 
+    text-align: center; 
+}
+
+h1 {
+    font-family: milky; 
+}
+
+.nav{
+    display: inline-block;
+    font-size: 14px; 
+    padding: 20px;
+}
+#about_me {
+    font-family: Roboto; 
 }
