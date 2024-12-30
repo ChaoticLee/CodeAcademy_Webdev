@@ -1,0 +1,8 @@
+@font-family
+{
+    font-family: custom;
+    src: url(milky_vintage-webfont.woff);
+}
+* {
+    font-family: custom; 
+}
