@@ -1,0 +1,33 @@
+
+* {
+  font-family: Helvetica;
+}
+
+.title {
+  font-size: 100px;
+  font-weight:bold;
+  color:khaki;
+  text-align: center;
+}
+}
+h2 {
+  font-size: 32px; 
+  font-weight: bold; 
+  color: white;
+}
+
+a {
+  font-weight: bold;
+  color: blue;
+}
+
+.Brushes h2{
+  background-color:mediumspringgreen;
+}
+
+.Frames h2{
+  background-color: lightcoral;
+}
+.Paints h2{
+  background-color: skyblue;
+}
