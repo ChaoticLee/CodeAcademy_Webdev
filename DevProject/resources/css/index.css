@@ -1,6 +1,6 @@
 @font-face{
     font-family:'milky';
-    src: url('milky_vintage-webfont.woff') format('woff');
+    src: url('../fonts/milky_vintage-webfont.woff') format('woff');
 }
 * { 
     text-align: center; 
