@@ -1,13 +1,13 @@
 @font-face{
-    font-family:'milky';
-    src: url('../fonts/milky_vintage-webfont.woff') format('woff');
+    font-family:'tropi';
+    src: url('../fonts/Tropi Land - (Demo) hanscostudio.com.ttf') format('ttf');
 }
 * { 
     text-align: center; 
 }
 
 h1 {
-    font-family: milky; 
+    font-family: tropi; 
 }
 
 .nav{
