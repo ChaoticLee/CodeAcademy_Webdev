@@ -1,0 +1,76 @@
+*{
+  font-family: "Montserrat Alternates";
+}
+
+.rubik-puddles {
+  font-family: "Rubik Puddles", serif;
+  font-weight: 400;
+  font-size: 36px;
+  font-style: normal;
+}
+.madimi-one {
+  font-family: "Madimi One", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+// <weight>: Use a value from 100 to 900
+// <width>: Use a value from 100 to 125
+// <uniquifier>: Use a unique and descriptive class name
+
+.sour-gummy-reg {
+  font-family: "Sour Gummy", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 110;
+}
+
+.sour-gummy-thin {
+  font-family: "Sour Gummy", serif;
+  font-optical-sizing: auto;
+  font-weight: 150;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 110;
+}
+
+
+
+.montserrat-alternates-regular {
+  font-family: "Montserrat Alternates", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+.container {
+border: 1.5px solid ;
+border-radius: 8px; 
+padding: 5px; 
+margin: 20px auto;
+}
+.title {
+  text-decoration: underline black; 
+  font-family: "Rubik Puddles";
+}
+.subtitle {
+  text-decoration: underline  black; 
+}
+.color-panel{
+  border-radius: 5px;
+     display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 80px;}
+.lavender-blush {
+  background-color:#FDF1F1 ;}
+.coral-pink {
+  background-color:#ED9C87; } 
+.light-blue {
+  background-color:#9DC9C8;}
+.cerulean {
+  background-color:#2B798F;
+  color: #FFFFFF;}
